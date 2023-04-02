@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(images/QQ图片20211223220529.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.shu {
+    font-size: 36px;
+    margin: 0 auto;
+    text-align: center;
+    height: 100px;
+    margin-bottom: 90px;
+   
+}
+
+span {
+    color: red;
+}
+
+h1{
+    text-align: center;
+}
+
+.main{
+    height: 260px;
+    width: 600px;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    margin-top: -130px;
+    margin-left: -300px;
+    backdrop-filter: blur(15px);
+    box-shadow: 0 0 17px #333;
+    border-radius: 20px;
+}
+
+.tit{
+    margin-top: 90px;
+}
